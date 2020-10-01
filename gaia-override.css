@@ -164,6 +164,10 @@ section > header:first-child + * {
   margin-top: 0;
 }
 
+section section.neat {
+  background-color: #d102c0;
+}
+
 section a,
 section mark {
   color: #0288d1;
@@ -215,6 +219,10 @@ section.invert {
   background-color: #455a64;
 }
 
+section.invert section.neat {
+  background-color: #d102c0;
+}
+
 section.invert a,
 section.invert mark {
   color: #81d4fa;
@@ -264,6 +272,10 @@ section.invert table tbody > tr:nth-child(odd) th {
 section.gaia {
   color: #209b86;
   background-color: #0288d1;
+}
+
+section.gaia section.neat {
+  background-color: #d102c0;
 }
 
 section.gaia a,
