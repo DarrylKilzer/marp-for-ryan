@@ -1,6 +1,5 @@
 ---
 theme: gaiaoverride
-
 ---
 
 ### Here is dog
@@ -27,3 +26,8 @@ class whatevs {
 class: neat
 -->
 ## neat
+
+---
+<!-- class: -->
+
+## not neat
