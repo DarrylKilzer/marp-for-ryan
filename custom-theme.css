@@ -1,0 +1,9 @@
+/* custom-theme.css */
+/* @theme example */
+
+@import 'default';
+
+section {
+  /* Override default background */
+  background: rgb(60, 125, 189);
+}

@@ -1,0 +1,16 @@
+/*!
+ * Marp / Marpit custom theme.
+ *
+ * @theme example
+ * @author D$
+ *
+ * @auto-scaling true
+ * @size 4:3 960px 720px
+ */
+
+ @import 'gaia';
+
+section {
+  background-color: #f80;
+  color: rgb(209, 18, 18);
+}
