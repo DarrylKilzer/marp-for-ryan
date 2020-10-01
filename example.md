@@ -1,12 +1,13 @@
 ---
 theme: gaiaoverride
-class:
-  - neat
+
 ---
 
 ### Here is dog
 
 pretty neat :dog:
+
+pretty neat :cat:
 
 ```js
 let something = {}
